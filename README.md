@@ -18,7 +18,7 @@ This project demonstrates best practices in React component design, responsive l
 
 ## 🌐 Live Demo
 
-👉 [View the live site here](https://username.github.io/repo-name)  
+👉 [View the live site here](https://belfinbaby555.github.io/Illford_Digital_Landify/)  
 
 ---
 
