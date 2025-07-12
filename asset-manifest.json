@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Illford_Digital_Landify/static/css/main.c6632756.css",
-    "main.js": "/Illford_Digital_Landify/static/js/main.37700c44.js",
+    "main.js": "/Illford_Digital_Landify/static/js/main.9d13f1f3.js",
     "static/media/mobile_image.png": "/Illford_Digital_Landify/static/media/mobile_image.20f9942b3c176881ebb5.png",
     "static/media/phone_2.png": "/Illford_Digital_Landify/static/media/phone_2.5ed52e000ed347b77cb2.png",
     "static/media/phone_3.png": "/Illford_Digital_Landify/static/media/phone_3.cbc70548d045d85f564f.png",
     "static/media/interation_apps.png": "/Illford_Digital_Landify/static/media/interation_apps.a1e54b1c9dd6e4caba1f.png",
     "index.html": "/Illford_Digital_Landify/index.html",
     "main.c6632756.css.map": "/Illford_Digital_Landify/static/css/main.c6632756.css.map",
-    "main.37700c44.js.map": "/Illford_Digital_Landify/static/js/main.37700c44.js.map"
+    "main.9d13f1f3.js.map": "/Illford_Digital_Landify/static/js/main.9d13f1f3.js.map"
   },
   "entrypoints": [
     "static/css/main.c6632756.css",
-    "static/js/main.37700c44.js"
+    "static/js/main.9d13f1f3.js"
   ]
 }
